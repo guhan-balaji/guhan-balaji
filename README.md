@@ -2,8 +2,7 @@
 
 Hi, my name is Guhan Balaji. I graduated from the Indian Institute of Information Technology, Kurnool with a Bachelor's degree in ECE. I've fallen in love with linux and the
 idea of open-source/free software. I hope to build impactful open-source projects in the future.
-Currently, I am having a blast learning rust. If you are looking for rust developers, contact me @guhanbalaji7@gmail.com.
-
+Currently, I am having a blast learning rust. If you are looking for rust developers, contact me @guhanbalaji7@gmail.com or @[LinkedIn](https://www.linkedin.com/in/guhan-balaji-samy-0b289319b/).
 ## 👨💻 Languages, Frameworks, Libraries, Tools, etc...
 [![](https://img.shields.io/badge/Lang-Rust-informational?style=for-the-badge&logo=rust&logoColor=white&color=blue&labelColor=000000)](https://www.rust-lang.org/)
 [![](https://img.shields.io/badge/Lang-Go-informational?style=for-the-badge&logo=go&logoColor=white&color=blue&labelColor=000000)](https://golang.org/)
@@ -33,7 +32,7 @@ Currently, I am having a blast learning rust. If you are looking for rust develo
 <details>
   <summary> Other Details </summary>
   <ul>
-    <li>👀 I’m interested in system design, programming language and compiler design.</li>
+    <li>👀 I’m interested in system design & programming language and compiler design.</li>
     <li>🌱 I’m also learning how Deno works.</li>
     <li>👯 I’m looking to collaborate on Rust/JS/TS/Go projects.</li>
     <li>📫 Email: guhanbalaji7@gmail.com</li>
