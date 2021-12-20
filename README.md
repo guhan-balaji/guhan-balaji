@@ -33,7 +33,7 @@ Currently, I am having a blast learning rust. If you are looking for rust develo
 <details>
   <summary> Other Details </summary>
   <ul>
-    <li>👀 I’m interested in system design, programming languiage and compiler design.</li>
+    <li>👀 I’m interested in system design, programming language and compiler design.</li>
     <li>🌱 I’m also learning how Deno works.</li>
     <li>👯 I’m looking to collaborate on Rust/JS/TS/Go projects.</li>
     <li>📫 Email: guhanbalaji7@gmail.com</li>
