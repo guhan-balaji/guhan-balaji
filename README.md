@@ -28,13 +28,3 @@ Currently, I am having a blast learning rust. If you are looking for rust develo
 [![](https://img.shields.io/badge/OS-Garuda_Linux-informational?style=for-the-badge&logo=arch-linux&logoColor=white&color=blue&labelColor=000000)](https://garudalinux.org/)
 [![](https://img.shields.io/badge/OS-Ubuntu-informational?style=for-the-badge&logo=ubuntu&logoColor=white&color=blue&labelColor=000000)](https://ubuntu.com/)
 [![](https://img.shields.io/badge/OS-Windows-informational?style=for-the-badge&logo=windows&logoColor=white&color=blue&labelColor=000000)](https://www.microsoft.com/en-us/windows)
-
-<details>
-  <summary> Other Details </summary>
-  <ul>
-    <li>👀 I’m interested in system design & programming language and compiler design.</li>
-    <li>🌱 I’m also learning how Deno works.</li>
-    <li>👯 I’m looking to collaborate on Rust/JS/TS/Go projects.</li>
-    <li>📫 Email: guhanbalaji7@gmail.com</li>
-  </ul>
-</details>
