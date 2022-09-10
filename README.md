@@ -6,7 +6,8 @@ Hi, my name is Guhan Balaji. Currently, I'm pursuing a Master's in Computer Scie
 [![](https://img.shields.io/badge/Lang-Go-informational?style=for-the-badge&logo=go&logoColor=white&color=blue&labelColor=000000)](https://golang.org/)
 [![](https://img.shields.io/badge/Lang-TypeScript-informational?style=for-the-badge&logo=typescript&logoColor=white&color=blue&labelColor=000000)](https://www.typescriptlang.org/)
 [![](https://img.shields.io/badge/Lang-JavaScript-informational?style=for-the-badge&logo=javascript&logoColor=white&color=blue&labelColor=000000)](https://www.javascript.com/)
-[![](https://img.shields.io/badge/Lang-C\C++-informational?style=for-the-badge&logo=c%2B%2B&logoColor=white&color=blue&labelColor=000000)](https://clang.llvm.org/)
+[![](https://img.shields.io/badge/Lang-C-informational?style=for-the-badge&logo=C&logoColor=white&color=blue&labelColor=000000)](https://en.cppreference.com/w/c)
+[![](https://img.shields.io/badge/Lang-C%2B%2B-informational?style=for-the-badge&logo=C%2B%2B&logoColor=white&color=blue&labelColor=000000)](https://en.cppreference.com/w/cpp)
 [![](https://img.shields.io/badge/Lang-Python-informational?style=for-the-badge&logo=python&logoColor=white&color=blue&labelColor=000000)](https://www.python.org)
 
 [![](https://img.shields.io/badge/Framework-Express-informational?style=for-the-badge&logo=express&logoColor=white&color=blue&labelColor=000000)](http://expressjs.com/)
