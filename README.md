@@ -1,6 +1,6 @@
 # Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-Hi, my name is Guhan Balaji. Currently, I'm pursuing a Master's in Computer Science at Arizona State Universtiy. I have experience with web development but I also want to work with system-level languages (particularly Rust). Along with my coursework at ASU, I'm following Philipp Oppermann's blog ["Writing an OS in Rust"](https://os.phil-opp.com/) to improve my knowledge on system development. If you are looking for Rust developers, contact me @guhanbalaji7@gmail.com or @[LinkedIn](https://www.linkedin.com/in/guhan-balaji/).
+Hi, my name is Guhan Balaji. Currently, I'm pursuing a Master's in Computer Science at Arizona State Universtiy. I have experience with web development, however, I am currently interested in working with low-level system projects. Feel free to contact me @guhanbalaji7@gmail.com or @[LinkedIn](https://www.linkedin.com/in/guhan-balaji/).
 ## 👨💻 Languages, Frameworks, Libraries, Tools, etc...
 [![](https://img.shields.io/badge/Lang-Rust-informational?style=for-the-badge&logo=rust&logoColor=white&color=blue&labelColor=000000)](https://www.rust-lang.org/)
 [![](https://img.shields.io/badge/Lang-Go-informational?style=for-the-badge&logo=go&logoColor=white&color=blue&labelColor=000000)](https://golang.org/)
